@@ -2,3 +2,4 @@
 - signup
 - signin
 - chat
+- gift(send)
