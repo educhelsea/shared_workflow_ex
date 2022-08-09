@@ -3,3 +3,4 @@
 - signin
 - chat
 - gift(send)
+- gift(receive)
