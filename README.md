@@ -4,3 +4,5 @@
 - chat
 - gift(send)
 - gift(receive)
+- pay(send)
+- pay(receive)
